@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakerStreetBaker", "BakerStreetBaker.csproj", "{F88DDF56-BCDE-455B-98D3-03E215A284EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakerStreetBaker_Tests", "..\BakerStreetBaker_Tests\BakerStreetBaker_Tests.csproj", "{46D33134-CD8B-44BA-9F46-D19135A95ED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88DDF56-BCDE-455B-98D3-03E215A284EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88DDF56-BCDE-455B-98D3-03E215A284EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88DDF56-BCDE-455B-98D3-03E215A284EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88DDF56-BCDE-455B-98D3-03E215A284EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D33134-CD8B-44BA-9F46-D19135A95ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D33134-CD8B-44BA-9F46-D19135A95ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D33134-CD8B-44BA-9F46-D19135A95ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D33134-CD8B-44BA-9F46-D19135A95ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4111A59F-C02E-425D-8418-2D92E7FFDE16}
+	EndGlobalSection
+EndGlobal
